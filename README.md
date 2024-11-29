@@ -65,5 +65,5 @@ novel = generator.generate_novel(user_idea, user_requirements)
 
 我上传了生成的一部小说，其内容如下
 
-<img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20241129132338062.png" alt="image-20241129132338062" style="zoom:100%;" />
+<img src="./novel_result.png" style="zoom:100%;" />
 
